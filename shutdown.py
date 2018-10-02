@@ -1,3 +1,4 @@
+import os
 want = input("Do you really want to kill me :) (y/n) ")
 if want == 'n':
     exit()
